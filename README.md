@@ -1,2 +1,16 @@
-# bootloader
-Bootloader is a low-level project powered by a customized cross-compiler and assembly language, it seamlessly integrates C++ capabilities for added versatility.
+# Bootloader
+
+## Key Features
+
+- **Expanded Capacity**: Load programs beyond the 512-byte limit, opening up new possibilities for your bootloader-based projects.
+- **C++ Integration**: Seamlessly integrate C++ code directly into the bootloader for enhanced functionality.
+- **Memory Optimization**: Organize memory layout for more efficient execution.
+- **Cross-Compiler**: Custom cross-compiler setup ensures compatibility and precise control.
+
+## Technologies Used
+
+- Assembly Language (NASM)
+- C++ Programming
+- BIOS Interrupt 0x13
+- Cross-Compiler Setup
+- Memory Layout Optimization
